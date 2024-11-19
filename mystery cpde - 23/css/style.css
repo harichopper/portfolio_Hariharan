@@ -25,7 +25,7 @@ section {
 }
 body.active {
   --text-color: #fff;
-  --bg-color: #0f0c27;
+  --bg-color: #000000;
 }
 body {
   background: var(--bg-color);
